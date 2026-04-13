@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Harrison Gan Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: shiny-apps.qmd
+        text: Shiny Apps
+      - href: shinylive.qmd
+        text: Shinylive
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+

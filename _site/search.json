@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "shinylive.html",
+    "href": "shinylive.html",
+    "title": "Essay on Shiny Live",
+    "section": "",
+    "text": "Shinylive is a way to run Shiny-style applications directly in a web browser without needing a traditional server."
+  },
+  {
+    "objectID": "shinylive.html#what-is-shinylive",
+    "href": "shinylive.html#what-is-shinylive",
+    "title": "Essay on Shiny Live",
+    "section": "",
+    "text": "Shinylive is a way to run Shiny-style applications directly in a web browser without needing a traditional server."
+  },
+  {
+    "objectID": "shinylive.html#how-shinylive-differs-from-shiny-apps",
+    "href": "shinylive.html#how-shinylive-differs-from-shiny-apps",
+    "title": "Essay on Shiny Live",
+    "section": "How Shinylive Differs from Shiny Apps",
+    "text": "How Shinylive Differs from Shiny Apps\nTraditional Shiny apps usually need a server to run. Shinylive allows apps to run in the browser itself, which makes sharing and deployment easier."
+  },
+  {
+    "objectID": "shinylive.html#pros-of-shinylive",
+    "href": "shinylive.html#pros-of-shinylive",
+    "title": "Essay on Shiny Live",
+    "section": "Pros of Shinylive",
+    "text": "Pros of Shinylive\n\nNo server required\nEasier to publish and share\nGood for lightweight projects and demonstrations"
+  },
+  {
+    "objectID": "shinylive.html#cons-of-shinylive",
+    "href": "shinylive.html#cons-of-shinylive",
+    "title": "Essay on Shiny Live",
+    "section": "Cons of Shinylive",
+    "text": "Cons of Shinylive\n\nNot ideal for very large or complex apps\nStill more limited than full Shiny in some cases"
+  },
+  {
+    "objectID": "shinylive.html#comparison-with-traditional-shiny",
+    "href": "shinylive.html#comparison-with-traditional-shiny",
+    "title": "Essay on Shiny Live",
+    "section": "Comparison with Traditional Shiny",
+    "text": "Comparison with Traditional Shiny\nTraditional Shiny is better for larger, more advanced applications. Shinylive is better when you want something simple, portable, and easy to publish."
+  },
+  {
+    "objectID": "shinylive.html#conclusion",
+    "href": "shinylive.html#conclusion",
+    "title": "Essay on Shiny Live",
+    "section": "Conclusion",
+    "text": "Conclusion\nShinylive is a useful modern alternative to traditional Shiny for smaller interactive apps, especially when easy deployment is important."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a Business Administration student at Cal Poly Pomona with interests in marketing, finance, and real estate. My career goal is to build a future in real estate investment and development while strengthening my skills in business strategy and data analysis.\n\n\n\n\nData analysis with R\nMarketing and business strategy\nFinancial analysis\nData visualization\nReal estate knowledge\n\n\n\n\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration\n\n\n\nThis website showcases my practice with Quarto, dashboards, Shiny Apps, and Shinylive."
+  },
+  {
+    "objectID": "index.html#harrison-gan",
+    "href": "index.html#harrison-gan",
+    "title": "Home",
+    "section": "",
+    "text": "I am a Business Administration student at Cal Poly Pomona with interests in marketing, finance, and real estate. My career goal is to build a future in real estate investment and development while strengthening my skills in business strategy and data analysis.\n\n\n\n\nData analysis with R\nMarketing and business strategy\nFinancial analysis\nData visualization\nReal estate knowledge\n\n\n\n\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration\n\n\n\nThis website showcases my practice with Quarto, dashboards, Shiny Apps, and Shinylive."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard shows a simple visualization using the built-in mpg dataset in R."
+  },
+  {
+    "objectID": "dashboard.html#dashboard-example",
+    "href": "dashboard.html#dashboard-example",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This dashboard shows a simple visualization using the built-in mpg dataset in R."
+  },
+  {
+    "objectID": "dashboard.html#dashboard-example-1",
+    "href": "dashboard.html#dashboard-example-1",
+    "title": "Dashboard",
+    "section": "Dashboard Example",
+    "text": "Dashboard Example\nThis dashboard shows a simple visualization using the built-in mpg dataset in R.\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(x = class)) +\n  geom_bar() +\n  labs(\n    title = \"Count of Vehicles by Class\",\n    x = \"Vehicle Class\",\n    y = \"Count\"\n  )"
+  },
+  {
+    "objectID": "dashboard.html#key-insight",
+    "href": "dashboard.html#key-insight",
+    "title": "Dashboard",
+    "section": "Key Insight",
+    "text": "Key Insight\n\nSUVs are the most common vehicle type\n\nCompact and midsize cars also appear frequently\n\nLarger vehicle classes dominate the dataset"
+  },
+  {
+    "objectID": "shiny-apps.html",
+    "href": "shiny-apps.html",
+    "title": "Essay on Shiny-apps",
+    "section": "",
+    "text": "A Shiny app is an interactive web application built with R. It allows users to interact with data, charts, and controls directly in a web browser."
+  },
+  {
+    "objectID": "shiny-apps.html#what-is-a-shiny-app",
+    "href": "shiny-apps.html#what-is-a-shiny-app",
+    "title": "Essay on Shiny-apps",
+    "section": "",
+    "text": "A Shiny app is an interactive web application built with R. It allows users to interact with data, charts, and controls directly in a web browser."
+  },
+  {
+    "objectID": "shiny-apps.html#main-components-of-a-shiny-app",
+    "href": "shiny-apps.html#main-components-of-a-shiny-app",
+    "title": "Essay on Shiny-apps",
+    "section": "Main Components of a Shiny App",
+    "text": "Main Components of a Shiny App\nA Shiny app usually has two main parts:\n\nUser Interface (UI): what the user sees\nServer: the part that processes the inputs and generates outputs"
+  },
+  {
+    "objectID": "shiny-apps.html#why-shiny-apps-are-useful",
+    "href": "shiny-apps.html#why-shiny-apps-are-useful",
+    "title": "Essay on Shiny-apps",
+    "section": "Why Shiny Apps Are Useful",
+    "text": "Why Shiny Apps Are Useful\nShiny apps are useful because they allow people to explore data in a more engaging way than static charts. Users can filter data, change settings, and instantly see updated results."
+  },
+  {
+    "objectID": "shiny-apps.html#example-workplace-use",
+    "href": "shiny-apps.html#example-workplace-use",
+    "title": "Essay on Shiny-apps",
+    "section": "Example Workplace Use",
+    "text": "Example Workplace Use\nIf coworkers want to analyze sales performance, a Shiny app can help them choose a region, time period, or product category and instantly see updated graphs."
+  },
+  {
+    "objectID": "shiny-apps.html#advantages",
+    "href": "shiny-apps.html#advantages",
+    "title": "Essay on Shiny-apps",
+    "section": "Advantages",
+    "text": "Advantages\n\nInteractive and user-friendly\nBuilt in R\nGood for dashboards and data exploration"
+  },
+  {
+    "objectID": "shiny-apps.html#limitations",
+    "href": "shiny-apps.html#limitations",
+    "title": "Essay on Shiny-apps",
+    "section": "Limitations",
+    "text": "Limitations\n\nOften requires a server for hosting\nCan become slow with large or complex data"
+  },
+  {
+    "objectID": "shiny-apps.html#conclusion",
+    "href": "shiny-apps.html#conclusion",
+    "title": "Essay on Shiny-apps",
+    "section": "Conclusion",
+    "text": "Conclusion\nShiny apps are powerful tools for turning data into interactive experiences that help users better understand information and make decisions."
+  }
+]

@@ -1,0 +1,39 @@
+---
+title: "Essay on Shiny-apps"
+author: "Harrison Gan"
+format: html
+---
+
+## What is a Shiny App?
+
+A Shiny app is an interactive web application built with R. It allows users to interact with data, charts, and controls directly in a web browser.
+
+## Main Components of a Shiny App
+
+A Shiny app usually has two main parts:
+
+-   **User Interface (UI):** what the user sees
+-   **Server:** the part that processes the inputs and generates outputs
+
+## Why Shiny Apps Are Useful
+
+Shiny apps are useful because they allow people to explore data in a more engaging way than static charts. Users can filter data, change settings, and instantly see updated results.
+
+## Example Workplace Use
+
+If coworkers want to analyze sales performance, a Shiny app can help them choose a region, time period, or product category and instantly see updated graphs.
+
+## Advantages
+
+-   Interactive and user-friendly
+-   Built in R
+-   Good for dashboards and data exploration
+
+## Limitations
+
+-   Often requires a server for hosting
+-   Can become slow with large or complex data
+
+## Conclusion
+
+Shiny apps are powerful tools for turning data into interactive experiences that help users better understand information and make decisions.

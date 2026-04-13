@@ -1,0 +1,29 @@
+---
+title: "Home"
+format: html
+---
+
+## Harrison Gan
+
+![](images/clipboard-2558327931.jpeg)
+
+### Career Aspiration
+
+I am a Business Administration student at Cal Poly Pomona with interests in marketing, finance, and real estate. My career goal is to build a future in real estate investment and development while strengthening my skills in business strategy and data analysis.
+
+### Skills
+
+-   Data analysis with R
+-   Marketing and business strategy
+-   Financial analysis
+-   Data visualization
+-   Real estate knowledge
+
+### Education
+
+California State Polytechnic University, Pomona\
+Bachelor of Science in Business Administration
+
+### About This Website
+
+This website showcases my practice with Quarto, dashboards, Shiny Apps, and Shinylive.

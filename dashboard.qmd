@@ -1,0 +1,31 @@
+---
+title: "Dashboard"
+author: "Harrison Gan"
+format: html
+---
+
+## Dashboard Example
+
+This dashboard shows a simple visualization using the built-in `mpg` dataset in R.
+
+## Dashboard Example
+
+This dashboard shows a simple visualization using the built-in `mpg` dataset in R.
+
+```{r}
+library(ggplot2)
+
+ggplot(mpg, aes(x = class)) +
+  geom_bar() +
+  labs(
+    title = "Count of Vehicles by Class",
+    x = "Vehicle Class",
+    y = "Count"
+  )
+```
+
+## Key Insight
+
+- SUVs are the most common vehicle type  
+- Compact and midsize cars also appear frequently  
+- Larger vehicle classes dominate the dataset  
